@@ -30,3 +30,17 @@ Input Domain
 - [ ] Brevo Integration
 - [ ] Safety Checkpoint
 - [ ] Demo Video
+
+## Run
+
+npm install
+npm start
+
+Example:
+
+Enter company domain: ocean.io
+
+Finding similar companies...
+Finding founders...
+Verifying emails...
+Send outreach emails? (yes/no)
