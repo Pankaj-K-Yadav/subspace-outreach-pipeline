@@ -44,3 +44,14 @@ Finding similar companies...
 Finding founders...
 Verifying emails...
 Send outreach emails? (yes/no)
+
+
+## Status
+
+- [x] Project Setup
+- [x] Ocean.io Integration (Mock)
+- [x] Prospeo Integration (Mock)
+- [x] Eazyreach Integration (Mock)
+- [x] Brevo Integration (Mock)
+- [x] Safety Checkpoint
+- [ ] Demo Video
